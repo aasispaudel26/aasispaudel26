@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.istockphoto.com/id/521203170/photo/mickey-mouse-head.jpg?s=612x612&w=0&k=20&c=xvzIY0wqzRKnlHK3aW_pY1cNkLw8Z_b5uJHPf0NPM6M=)]
+[![MasterHead](https://imgs.search.brave.com/q8DIMXTObHQl1UsERLWtQwC6s7JoGNrQXb1HNlY43dk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGVjaG9wZWRpYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDcvYmxvY2tj/aGFpbl8wMS0xMDI0/eDUxMi5wbmc)]
 
 <h1 align="center">Hi 👋, I'm Aasis Paudel</h1>
 <h3 align="center">Django enthusiast, crafting robust backend solutions</h3>
