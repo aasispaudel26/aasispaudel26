@@ -1,6 +1,4 @@
-
-[![MasterHead](https://imgs.search.brave.com/q8DIMXTObHQl1UsERLWtQwC6s7JoGNrQXb1HNlY43dk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGVjaG9wZWRpYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDcvYmxvY2tj/aGFpbl8wMS0xMDI0/eDUxMi5wbmc)]
-
+![MasterHead](https://imgs.search.brave.com/q8DIMXTObHQl1UsERLWtQwC6s7JoGNrQXb1HNlY43dk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGVjaG9wZWRpYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDcvYmxvY2tj/aGFpbl8wMS0xMDI0/eDUxMi5wbmc)
 <h1 align="center">Hi 👋, I'm Aasis Paudel</h1>
 <h3 align="center">Django enthusiast, crafting robust backend solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
